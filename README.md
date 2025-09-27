@@ -35,3 +35,26 @@ A React-based web application to explore books using the [OpenLibrary API](https
 `https://transcendent-creponne-520f37.netlify.app/`
 
 ![Book Finder Screenshot](https://your-screenshot-url.png)
+
+##Project Structure
+
+book-finder/
+│
+├── public/              # Static files
+├── src/
+│   ├── App.jsx          # Main React component
+│   ├── App.css          # App-specific styling
+│   ├── index.css        # Global styles and resets
+│   └── main.jsx         # Entry point
+├── index.html
+├── package.json
+└── vite.config.js       # Vite configuration
+
+
+#Tech Stack
+⚛️ React (with Hooks)
+💨 CSS3 (custom styling)
+⚡ Vite (for fast dev environment)
+🌐 OpenLibrary API
+
+Website Link:- https://transcendent-creponne-520f37.netlify.app/
